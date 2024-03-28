@@ -1,6 +1,5 @@
 # Data-Analysis-With-Python-Numpy-Libary
 ### Repository Overview 
-
 This repository contains a library of my notes on the second half of the content for the "Data Analysis with Python" certification course by freeCodeCamp, which I created as part of self-studying Python and am sharing here for use as a reference resource. The second half of the content in this course covers Numpy with Python. This is an extensive library of my notes on this section of the course, covering the fundamental aspects of Numpy with Python. This includes essential topics on machine learning, neural networks, natural language processing and reinforcement learning using this (the TensorFlow) framework. This libary consists of 32 PDF files below, each corresponding to a specific video lecture in this section of the course. 
 
 ### Course Details For "Machine Learning with Python"
