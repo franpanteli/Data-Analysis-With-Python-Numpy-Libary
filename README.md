@@ -4,7 +4,7 @@ This repository contains a library of my notes on the second half of the content
 
 ### Course Details For "Data Analysis with Python"
 - **Course URL:** [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python)
-- **Instructor:** Tim Ruscica (Keith Galli)
+- **Instructor:** Keith Galli
 - **Languages/ libaries:** Python, Numpy
   
 ### Course Sections Covered For "Numpy"
