@@ -13,10 +13,10 @@ This repository contains a library of my notes on the first half of the content 
 2. [Basics of Numpy](https://github.com/franpanteli/Data-Analysis-With-Python-Numpy-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/2%20Basics%20of%20Numpy.pdf)
 3. [Accessing and Changing Elements, Rows, Columns](https://github.com/franpanteli/Data-Analysis-With-Python-Numpy-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/3%20Accessing%20and%20Changing%20Elements%2C%20Rows%2C%20Columns.pdf)
 4. [Initialising Different Arrays](https://github.com/franpanteli/Data-Analysis-With-Python-Numpy-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/4%20Initializing%20Different%20Arrays.pdf)
-5. [Initialize Array Problem](https://github.com/franpanteli/Data-Analysis-With-Python-Numpy-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/4%20Initializing%20Different%20Arrays.pdf)
+5. [Initialise Array Problem](https://github.com/franpanteli/Data-Analysis-With-Python-Numpy-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/4%20Initializing%20Different%20Arrays.pdf)
 6. [Copying Arrays Warning](https://github.com/franpanteli/Data-Analysis-With-Python-Numpy-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/6%20Copying%20Arrays%20Warning.pdf)
 7. [Mathematics](https://github.com/franpanteli/Data-Analysis-With-Python-Numpy-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/7%20Mathematics.pdf)
-8. [Reorganizing Arrays](https://github.com/franpanteli/Data-Analysis-With-Python-Numpy-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/8%20Reorganizing%20Arrays.pdf)
+8. [Reorganising Arrays](https://github.com/franpanteli/Data-Analysis-With-Python-Numpy-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/8%20Reorganizing%20Arrays.pdf)
 9. [Loading Data and Advanced Indexing](https://github.com/franpanteli/Data-Analysis-With-Python-Numpy-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/9%20Loading%20Data%20and%20Advanced%20Indexing.pdf)
 
 ### To Clone This Repository
