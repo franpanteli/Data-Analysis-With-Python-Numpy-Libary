@@ -7,7 +7,7 @@ This repository contains a library of my notes on the second half of the content
 - **Instructor:** Tim Ruscica (Keith Galli)
 - **Languages/ libaries:** Python, Numpy
   
-### Course Sections Covered For "TensorFlow"
+### Course Sections Covered For "Numpy"
 1. [What is NumPy](https://github.com/franpanteli/Data-Analysis-With-Python-Numpy-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/1%20What%20is%20NumPy.pdf)
 2. [Basics of Numpy](https://github.com/franpanteli/Data-Analysis-With-Python-Numpy-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/2%20Basics%20of%20Numpy.pdf)
 3. [Accessing and Changing Elements, Rows, Columns](https://github.com/franpanteli/Data-Analysis-With-Python-Numpy-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/3%20Accessing%20and%20Changing%20Elements%2C%20Rows%2C%20Columns.pdf)
