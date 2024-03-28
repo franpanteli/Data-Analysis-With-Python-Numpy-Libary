@@ -2,10 +2,10 @@
 ### Repository Overview 
 This repository contains a library of my notes on the second half of the content for the "Data Analysis with Python" certification course by freeCodeCamp, which I created as part of self-studying Python and am sharing here for use as a reference resource. The second half of the content in this course covers Numpy. This is an extensive library of my notes on this section of the course, covering the fundamental aspects of Numpy with Python. This includes essential topics on array initialisation, functions for use on Numpy arrays, array reorganisation, loading data and advanced indexing. This libary consists of 9 PDF files below, each corresponding to a specific video lecture in this section of the course. 
 
-### Course Details For "Machine Learning with Python"
-- **Course URL:** [Machine Learning with Python Certification](https://www.freecodecamp.org/learn/machine-learning-with-python/#tensorflow)
-- **Instructor:** Tim Ruscica (Tech With Tim)
-- **Framework:** TensorFlow
+### Course Details For "Data Analysis with Python"
+- **Course URL:** [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python)
+- **Instructor:** Tim Ruscica (Keith Galli)
+- **Languages/ libaries:** Python, Numpy
   
 ### Course Sections Covered For "TensorFlow"
 1. [What is NumPy](https://github.com/franpanteli/Data-Analysis-With-Python-Numpy-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/1%20What%20is%20NumPy.pdf)
