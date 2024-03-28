@@ -5,7 +5,7 @@ This repository contains a library of my notes on the second half of the content
 ### Course Details For "Data Analysis with Python"
 - **Course URL:** [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python)
 - **Instructor:** Keith Galli
-- **Languages/ libaries:** Python, Numpy
+- **Languages / libraries:** Python, Numpy
   
 ### Course Sections Covered For "Numpy"
 1. [What is NumPy](https://github.com/franpanteli/Data-Analysis-With-Python-Numpy-Libary/blob/main/Data-Analysis-With-Python-Numpy-Libary/1%20What%20is%20NumPy.pdf)
